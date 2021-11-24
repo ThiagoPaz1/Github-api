@@ -4,7 +4,7 @@
 <p>
   Aplicação web que apresenta perfis do github, utilizando dados da API pública do github.
 </p>
-<img src="Captura de tela de 2021-06-07 12-01-12.png"/>
+<img src="Captura de tela de 2021-11-24 15-17-38.png"/>
 <h3>Tecnologias utilizadas:</h3>
 <ul>
   <li>
