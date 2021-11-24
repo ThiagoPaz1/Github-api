@@ -19,5 +19,8 @@
   <li>
     HTML5 
   </li>
+  <li>
+    Styled-components
+  </li>
 </ul>
 <h3>Link para o projeto:</h3>
